@@ -1,1 +1,21 @@
-dfghi
+
+body {
+    
+    background-color: #ffffff; /* Colore bianco */
+    color: #000000; /* Colore testo nero */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* 100% altezza della viewport */
+    margin: 0; /* Rimuovi il margine del body */
+}
+
+.center-content {
+
+    text-align: center;
+}
+
+.btn-custom {
+
+    margin-top: 20px;
+}
